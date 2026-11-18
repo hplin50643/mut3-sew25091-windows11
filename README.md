@@ -9,7 +9,7 @@
 ## 需要準備什麼
 
 - Windows 11 **64 位元（x64）** 電腦、管理員權限與網路連線。
-- [下載本專案 ZIP](https://github.com/root50643/mut3-sew25091-windows11/archive/refs/heads/main.zip)，或在 GitHub 點 **Code → Download ZIP**。
+- [下載本專案 ZIP](https://github.com/hplin50643/mut3-sew25091-windows11/archive/refs/heads/main.zip)，或在 GitHub 點 **Code → Download ZIP**。
 - 自行取得原廠 **`SEW26061-00.zip`**，供稍後手動安裝主程式。本專案沒有附原廠主程式。
 - 儲存工作；若有要保留的 M.U.T. 車輛記錄或設定，先備份。
 
@@ -96,7 +96,7 @@ C:\MUT-Install\SEW26061-00\MUT3_Install.bat
 | `Failed to setup databases`／`Instance does not exist` | 保留錯誤與日誌，等原廠安裝流程結束後，再執行前置元件助手檢查。這類錯誤可能需要另外修復，不能只看捷徑判斷成功。 |
 | 傳統版沒有主畫面 | 確認已選 **Windows Based Script Host → 一律／Always**；仍失敗時保留錯誤訊息。 |
 
-需要協助時，可到 **[GitHub Issues](https://github.com/root50643/mut3-sew25091-windows11/issues)** 提供錯誤截圖、Windows 版本及進行到哪一步。前置元件日誌位於 `C:\MUT-Install\prerequisite-logs`，結果視窗也會列出本次路徑；分享前請移除個人或車輛資料。
+需要協助時，可到 **[GitHub Issues](https://github.com/hplin50643/mut3-sew25091-windows11/issues)** 提供錯誤截圖、Windows 版本及進行到哪一步。前置元件日誌位於 `C:\MUT-Install\prerequisite-logs`，結果視窗也會列出本次路徑；分享前請移除個人或車輛資料。
 
 ## 適用範圍與進階資料
 
